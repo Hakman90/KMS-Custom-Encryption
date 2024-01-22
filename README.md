@@ -22,7 +22,7 @@ Add Usage Permission: <br/>
 <img src="https://i.imgur.com/GVxhEkX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Creat a plain text file:  <br/>
+Create a plain text file:  <br/>
 <img src="https://i.imgur.com/e82qFoN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
