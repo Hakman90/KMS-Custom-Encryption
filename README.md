@@ -10,8 +10,8 @@ This Project consists of a simple Cloudformation template that can automatically
 Configure KMS Key: <br/>
 <img src="https://i.imgur.com/XGnYCvW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-Create Stack: <br/>
-<img src="https://imgur.com/dw0gFxv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Add Labels: <br/>
+<img src="https://i.imgur.com/5Uwnmlq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Upload Cloudformation Template:  <br/>
