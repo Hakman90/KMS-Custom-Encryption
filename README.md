@@ -14,8 +14,8 @@ Add Labels: <br/>
 <img src="https://i.imgur.com/5Uwnmlq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Upload Cloudformation Template:  <br/>
-<img src="https://imgur.com/8Cqi6kP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Add Admin Permissions:  <br/>
+<img src="https://i.imgur.com/GVxhEkX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Name Stack: <br/>
