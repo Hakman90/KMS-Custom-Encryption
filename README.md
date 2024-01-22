@@ -18,7 +18,7 @@ Add Admin Permissions:  <br/>
 <img src="https://i.imgur.com/GVxhEkX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Add USage Permissions: <br/>
+Add Usage Permissions: <br/>
 <img src="https://i.imgur.com/GVxhEkX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
