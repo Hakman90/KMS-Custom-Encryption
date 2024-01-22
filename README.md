@@ -1,7 +1,7 @@
 <h1>KMS Custom Encryption</h1>
 
 <h2>Description</h2>
-This Project shows you how to create a customer managed kms key and encrypt a plain text filee with it using Cloudshell.
+This Project shows you how to create a customer managed KMS key and encrypt a plain text filee with it using Cloudshell.
 <br />
 
 <h2>Project walk-through:</h2>
