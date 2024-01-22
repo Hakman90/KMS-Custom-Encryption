@@ -18,12 +18,12 @@ Add Admin Permissions:  <br/>
 <img src="https://i.imgur.com/GVxhEkX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Add Usage Permissions: <br/>
+Add Usage Permission: <br/>
 <img src="https://i.imgur.com/GVxhEkX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm Role Access and submit Stack:  <br/>
-<img src="https://imgur.com/SFCsYK4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Creat a plain text file:  <br/>
+<img src="https://i.imgur.com/e82qFoN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Stack Creation Complete:  <br/>
