@@ -26,8 +26,8 @@ Create a plain text file:  <br/>
 <img src="https://i.imgur.com/e82qFoN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Stack Creation Complete:  <br/>
-<img src="https://imgur.com/9bCOTIA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Encrypt File Using KMS key:  <br/>
+<img src="https://i.imgur.com/WbQjfEI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Ec2 Instance Created:  <br/>
